@@ -27,3 +27,5 @@ This project demonstrates the use of Snowflake and SnowSQL to import, model, and
 
 ### Conclusion
 This project highlights the capabilities of Snowflake for data modeling and visualization. The use of SnowSQL for data manipulation and Snowflake's built-in visualization tools allows for effective analysis of sales data. For more advanced visualizations and interactive dashboards, integrating with tools like Tableau or Power BI is recommended.
+
+To read the full documentation on my blog, click [here](https://imanadeko.hashnode.dev/analyzing-sales-data-from-a-nyc-coffee-shop).
